@@ -57,7 +57,7 @@
       <br/>
       <b>🧬 COSMIC AI</b>
       <br/>
-      <sub>สมองกลจากดาวอังคาร</sub>
+      <sub>สมองกลจากดวงจันทร์</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3ZWF0YmN0M2t4ZmQ2NmRvNnBxbG0yYnBrYmN6NXdqcnR3NHR6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" width="120px" height="120px"/>
