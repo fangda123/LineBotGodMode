@@ -1,4 +1,4 @@
-# 🌌 LineBotGodMode | บอทไลน์จากดวงดาว
+# 🌌 LineBotGodMode | บอทไลน์จากดวงดาวอวกาศ
 
 <div align="center">
 
